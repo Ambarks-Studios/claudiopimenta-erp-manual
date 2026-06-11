@@ -1,4 +1,4 @@
-# Manual de Instruções do Sistema ERP Imobiliário
+# Manual de Instruções do Sistema Imobiliário
 
 Este manual descreve como utilizar o sistema administrativo imobiliário, cobrindo acesso, navegação, módulos operacionais, permissões, documentos, relatórios e rotinas técnicas básicas.
 
