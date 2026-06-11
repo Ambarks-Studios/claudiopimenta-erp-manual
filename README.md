@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="[https://i.ibb.co/1GnQZWKH/Sem-T-tulo-1-copiar.png](src ?)" alt="deez-logo"/>
+  <img src="https://i.ibb.co/HDDLPz3y/Screenshot-1780483012.png" alt="deez-logo"/>
 </div>
 
-# Manual de Instruções do Sistema Imobiliário
+# Manual de Instruções do Sistema ERP Imobiliário
 
 Este manual descreve como utilizar o sistema administrativo imobiliário, cobrindo acesso, navegação, módulos operacionais, permissões, documentos, relatórios e rotinas técnicas básicas.
 
